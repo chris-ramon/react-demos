@@ -1,0 +1,17 @@
+{
+  "name": "go-react-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-jsx": "^0.12.4",
+    "react": "^0.13.0",
+    "system": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
